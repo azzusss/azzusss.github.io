@@ -1,0 +1,8 @@
+Origin: Azus's Cydia Repository
+Label: Azus's Cydia Repository
+Suite: stable
+Version: 1.0.0-1
+Codename: azusrepo
+Architecture: iphoneos-arm
+Components: main
+Description: Public repository of programmer & security specialist Sean Hill(Azus).
